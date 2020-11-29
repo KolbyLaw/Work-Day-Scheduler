@@ -1,39 +1,14 @@
-# User Story
-AS AN employee with a busy schedule
-<br>I WANT to add important events to a daily planner
-<br>SO THAT I can manage my time effectively
-<br><br>
-
-
-
-# Acceptance Criteria
-GIVEN I am using a daily planner to create a schedule
-<br>WHEN I open the planner
-<br>THEN the current day is displayed at the top of the calendar
-<br>WHEN I scroll down
-<br>THEN I am presented with time blocks for standard business hours
-<br>WHEN I view the time blocks for that day
-<br>THEN each time block is color-coded to indicate whether it is in the past, present, or future
-<br>WHEN I click into a time block
-<br>THEN I can enter an event
-<br>WHEN I click the save button for that time block
-<br>THEN the text for that event is saved in local storage
-<br>WHEN I refresh the page
-<br>THEN the saved events persist
-<br><br><br><br>
-
-
-
 ## Work Day Scheduler - Module 5 Project - 11/29/2020 - Kolby Law
 ### Website can be viewed at: https://kolbylaw.github.io/Work-Day-Scheduler/
 
-Created or performed updates to index.html and style.css, including the following: 
-- 
-- 
-- 
-- 
+Created or performed updates to index.html, style.css, and script.js, including the following: 
+- Created HTML rows to track tasks
+- Added CSS to customize header date/time
+- Created JS content to update row classes and date/time on an interval
+- Added localStorage functionality
 
-#### PLACEHOLDER TEXT/SCREENSHOT:
+#### Work Day Scheduler Header with Date/Time:
+![image](https://user-images.githubusercontent.com/73139141/100553916-4f0caa00-324e-11eb-8de8-95cf712ace3b.png)
 
-
-#### PLACEHOLDER TEXT/SCREENSHOT:
+#### Row Classes:
+![image](https://user-images.githubusercontent.com/73139141/100553929-5f248980-324e-11eb-9070-b420ad66b10d.png)
